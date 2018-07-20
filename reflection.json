@@ -1,0 +1,32 @@
+[
+    {
+      "name": "org.apache.logging.slf4j.SLF4JServiceProvider",
+      "methods": [
+        { "name": "<init>", "parameterTypes": [] }
+      ]
+    },
+    {
+      "name": "org.apache.logging.log4j.util.EnvironmentPropertySource",
+      "methods": [
+        { "name": "<init>", "parameterTypes": [] }
+      ]
+    },
+    {
+      "name": "org.apache.logging.log4j.util.SystemPropertiesPropertySource",
+      "methods": [
+        { "name": "<init>", "parameterTypes": [] }
+      ]
+    },
+    {
+      "name": "org.apache.logging.log4j.core.message.ExtendedThreadInfoFactory",
+      "methods": [
+        { "name": "<init>", "parameterTypes": [] }
+      ]
+    },
+    {
+      "name": "org.apache.logging.log4j.core.impl.Log4jProvider",
+      "methods": [
+        { "name": "<init>", "parameterTypes": [] }
+      ]
+    }
+]
